@@ -11,7 +11,7 @@
 </table>
 <br>
 
-# Seja bem vindo! <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50px"/>
+# Seja bem vindo! <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80px"/>
 
 ## Quem sou eu  
 Sou formado em ciências sociais pela UNIFESP (Universidade Federal de São Paulo). Desde os últimos semestres da faculdade, em 2020, passei a me interessar por tecnologia.  
@@ -25,6 +25,9 @@ Atualmente faço parte de um projeto de formação de cientistas sociais, o proj
 Ambas as empresas creem no poder do compartilhamento de conhecimento. De como o acesso a informação pode ser transformador na vida das pessoas. Por isso criaram uma turma tão diversa, a maior parte da turma são mulheres e pessoas negras. A oportunidade dada a nós será retribuida através de mudanças em ambientes de trabalho e no mundo.  
 [Pois, a área tecnologia é defasada no quesito diversidade](https://www.meupositivo.com.br/panoramapositivo/diversidade-e-inclusao-no-setor-de-ti/). Mas, em breve, seremos mais de 30 novos profissionais, homens e mulheres negros, trabalhando com ciência de dados.
 
+Dê uma olhada no meu repostório de exercícios do curso! [Resositório VamoAI](https://github.com/Felisouza/Vamo_ai.git)
+E também nos meus projetos de fim de módulo. Esse foi o primeiro do nosso primeiro módulo. [Projeto módulo 1](https://github.com/Felisouza/Projeto_Modulo_1.git)
+
 ***
 
 ## Até mais!
@@ -34,19 +37,3 @@ Ambas as empresas creem no poder do compartilhamento de conhecimento. De como o 
 
 
 ![](https://komarev.com/ghpvc/?username=Felisouza&color=red&style=flat)
-<!--
-**Felisouza/Felisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
