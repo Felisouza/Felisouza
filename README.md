@@ -21,9 +21,9 @@ Essas investigações me levaram ao mundo dos dados. Tenho me esforçado muito p
 ***
 ## Em que tenho trabalhado
 
-Atualmente faço parte de um projeto de formação de cientistas sociais, o projeto VamoAI. O curso é ofertado pela [Resilia](https://www.resilia.work/) em parceria com a [Ifood](https://www.ifood.com.br/)  
-Ambas as empresas creem no poder do compartilhamento de conhecimento. De como o acesso a informação pode ser transformador na vida das pessoas. Por isso criaram uma turma tão diversa, a maior parte da turma são mulheres e pessoas negras. A oportunidade dada a nós será retribuida através de mudanças em ambientes de trabalho e no mundo.  
-[Pois, a área tecnologia é defasada no quesito diversidade](https://www.meupositivo.com.br/panoramapositivo/diversidade-e-inclusao-no-setor-de-ti/). Mas, em breve, seremos mais de 30 novos profissionais, homens e mulheres negros, trabalhando com ciência de dados.
+Atualmente faço parte de um projeto de formação de cientistas de dados, o projeto VamoAI. O curso é ofertado pela [Resilia](https://www.resilia.work/) em parceria com a [Ifood](https://www.ifood.com.br/)  
+Ambas as empresas creem no poder do compartilhamento de conhecimento. De como o acesso a informação pode ser transformador na vida das pessoas. Por isso criaram a turma VamoAI pensando em diversidade! Quando se trata de gênero, a meioria dos alunos se identifica com o gênero feminino. Também pensaram em questões raciais, já que a maioria se identifica como negro/pardo. E deram prioridade para entregadores da Ifood ingressar no curso, assim como eu! A oportunidade dada a nós será retribuida através de mudanças em ambientes de trabalho e no mundo.  
+[Pois, a área tecnologia é defasada no quesito diversidade](https://www.meupositivo.com.br/panoramapositivo/diversidade-e-inclusao-no-setor-de-ti/). Mas, em breve, seremos mais de 30 novos profissionais, homens e mulheres negras, trabalhando com ciência de dados.
 
 Dê uma olhada no meu repostório de exercícios do curso! [Resositório VamoAI](https://github.com/Felisouza/Vamo_ai.git)
 E também nos meus projetos de fim de módulo. Esse foi o primeiro do nosso primeiro módulo. [Projeto módulo 1](https://github.com/Felisouza/Projeto_Modulo_1.git)
