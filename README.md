@@ -1,36 +1,51 @@
 <center>  
+  
+![](capa_github.png)
 
-![](capa_github4.gif)
-</center
+</center>
+
+<br>
+
+<h2  align="center"></h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/felisouza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:felisouza1991@gmail.com?subject=Hello%20Lis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
 
 <center>
 <table>
-<th><img width ="400px" align='left' src="https://github-readme-stats.vercel.app/api?username=Felisouza&theme=tokyonight&show_icons=True"/>
-<th><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felisouza&hide=html&layout=compact&theme=tokyonight" />
-</center>
+<td><img width ="400px" align='left' src="https://github-readme-stats.vercel.app/api?username=Felisouza&theme=tokyonight&show_icons=True"/>
+<td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felisouza&hide=html&layout=compact&theme=tokyonight" />
 </table>
+</center>
+
+<br>
 <br>
 
-# Seja bem vindo! <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80px"/>
+<h1> Seja bem vindo! <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80px"/></h1>
 
-## Quem sou eu  
-Sou formado em ciências sociais pela UNIFESP (Universidade Federal de São Paulo). Desde os últimos semestres da faculdade, em 2020, passei a me interessar por tecnologia.  
-Entrei para o grupo de estudos [PimentaLab](https://www.pimentalab.net/) onde estudamos como as variadas tecnologias produzem o social ao mesmo tempo em que são resignificadas pela sociedade também, os problemas e soluções que a tecnologia traz etc.  
-Essas investigações me levaram ao mundo dos dados. Tenho me esforçado muito para aprender a utilizar ferramentas de análise de dados, Python e R. Pois, creio que o domínio dessas linguagens de programação são meios poderosos para compreendermos o mundo em que vivemos.
+<h2>Quem sou</h2>  
+<p  align= 'justify' text-justify= 'inter-word'>
+Formado em ciências sociais pela UNIFESP, mas estou imerso na área de dados desde 2020.
+Desde o final da graduação comecei a me interessar mais por tecnologia. Iniciei meus estudos, sobre dados, a partir de cursos livres da UNIVESP, USP e CATE e muitos vídeos no YouTube.<br>
+Já em 2021 entrei no projeto VamoAI. O programa foi oferecido pela <a href="https://www.resilia.work/">Resilia</a> em parceria com o iFood e teve como objetivo formar analistas de dados. Após 6 meses com aulas de soft e hardskills me formei no curso e ingressei como cientista de dados no iFood.<br>
+Entrei no time de CRM, do iFood, como cientista de dados Jr. Onde desempenhei a função por 1 ano e 6 meses. Durante esse período aprendi muito sobre extração, transformação, análise, geração de insights para soluções e apresentação dos dados. Sempre trabalhando muito próximo aos stakeholders com a finalidade de criar novas soluções para CRM. Trabalhei em diversos projetos, dentre eles:
 
-***
-## Em que tenho trabalhado
-
-Atualmente faço parte de um projeto de formação de cientistas de dados, o projeto VamoAI. O curso é ofertado pela [Resilia](https://www.resilia.work/) em parceria com a [Ifood](https://www.ifood.com.br/)  
-Ambas as empresas creem no poder do compartilhamento de conhecimento. De como o acesso a informação pode ser transformador na vida das pessoas. Por isso criaram a turma VamoAI pensando em diversidade! Quando se trata de gênero, a meioria dos alunos se identifica com o gênero feminino. Também pensaram em questões raciais, já que a maioria se identifica como negro/pardo. E deram prioridade para entregadores da Ifood ingressar no curso, assim como eu! A oportunidade dada a nós será retribuida através de mudanças em ambientes de trabalho e no mundo.  
-[Pois, a área tecnologia é defasada no quesito diversidade](https://www.meupositivo.com.br/panoramapositivo/diversidade-e-inclusao-no-setor-de-ti/). Mas, em breve, seremos mais de 30 novos profissionais, homens e mulheres negras, trabalhando com ciência de dados.
-
-Dê uma olhada no meu repostório de exercícios do curso! [Resositório VamoAI](https://github.com/Felisouza/Vamo_ai.git)
-E também nos meus projetos de fim de módulo. Esse foi o primeiro do nosso primeiro módulo. [Projeto módulo 1](https://github.com/Felisouza/Projeto_Modulo_1.git)
+<li>Em parceria com os times de CRM desenvolvemos soluções a fim de aumentar a assertividade das comunicações com os clientes e diminuir os custos de uso de vouchers.Criamos diversas soluções de inteligência para comunicação e segmentação de usuários. 
+<li>Trabalhei na elaboração de campanhas personalizadas, em que cada usuário recebia uma mensagem única com uma recomendação de um restaurante específico para ele. Conseguimos aumentar o tráfego de clicks em pushes. Nossas campanhas tiveram o melhor desempenho dentre todas as outras estratégias de comunicação do iFood. 
+<li>Também atuei junto ao projeto Feynman. Um modelo de segmentação de usuários do aplicativo que separa os clientes mais ou menos persuadíveis ao receber um voucher. As campanhas que utilizam esse tipo de segmentação trazem, economia de mais de mais de 500 mil de reais ao mês.
 
 ***
+<h2>Em que tenho trabalhado</h2>
+<p  align= 'justify' text-justify= 'inter-word'>
+Atualmente estou trabalhando em desenvolver minhas habilidades de análise e exploração de dados. Através de desafios do <a href="https://www.kaggle.com/">Kaggle</a>.
+</p>
 
-## Até mais!
+***
+
+<h2>Até mais!
 <center>
 <img src= "https://octodex.github.com/images/nyantocat.gif" width="130px"/>
 </center>
